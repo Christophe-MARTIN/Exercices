@@ -1,0 +1,26 @@
+.Bonjour{
+        background-color: violet;
+        height: 200px;
+        width: 200px;
+}
+.AuRevoir{
+        background-color: blue;
+        height: 200px;
+        width: 200px;
+}
+
+.Arrete{
+        background-color: grey;
+        height: 200px;
+        width: 200px;
+}
+/*
+//fonction if - else exo35
+function couleurTitre(){
+      let  document.getElementById("Coucou la couleur")
+      if (mon_titre.className = "green"){
+
+{else if(mon_titre.className ="red")}
+
+      }
+      */

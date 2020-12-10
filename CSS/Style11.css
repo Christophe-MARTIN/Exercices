@@ -1,0 +1,23 @@
+h1{
+      font-size: 18px;
+      color: #5f9EA0;
+      }
+
+span{
+      border: 2px black solid;
+      border-radius: 5px;
+      }
+
+span2{
+      font-weight: bold;
+      text-shadow: 2px 1px 1px #5f9EA0;
+      }
+
+span3{
+      color: #5f9EA0;
+      }
+
+h3{
+      font-size: 12px;
+      color: white;
+      background-color: #5f9EA0;
