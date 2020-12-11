@@ -35,11 +35,21 @@ function supprimeParagraphe4(){
 
     let parentH1 = document.getElementById('div3')
     let remplacantH1 = document.createElement("h2")
-    parentH1.replaceChild(remplacantH1,parentH1.firstChild)
+    
+  /*  parentH1.replaceChild(remplacantH1,parentH1.firstChild)
     parentH1.removeChild(div3)
     parentH1.appendChild(h2)
-    parentH1.replaceChild(h2,parentH1.firstchild)
+    parentH1.replaceChild(h2,parentH1.firstchild)*/
   //  remplacantH1.innerText = "changement titre"
+
+
+
+
+
+
+
+
+
 /*
       let parentx4 = document.getElementById('body');
       let bebex4 = document.createElement("p x 4");

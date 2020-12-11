@@ -11,13 +11,13 @@ function jouer(id){
     else {
             //if si la case d'avant était bleu alors la prchaine est rose
     if (color_case=="blue"){
-
         cell.classList.add("rose")
-
+        cell.innerText=" "
         color_case="rose"
     }
     else{
         cell.classList.add("blue")
+        cell.innerText=" "
         color_case="blue"
     }
     }
@@ -27,27 +27,35 @@ function Rejouer(){
     let cell = document.getElementById("case1")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case2")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case3")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case4")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case5")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case6")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case7")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case8")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
+
     cell = document.getElementById("case9")
     cell.classList.remove("blue")
     cell.classList.remove("rose")
