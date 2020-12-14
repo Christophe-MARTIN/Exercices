@@ -1,8 +1,13 @@
-.div1{
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
     font-weight: bold;
+    background: 1000, 60;
     background-color: white;
-    width: 1000px;
-    height: 200px;
+    box-shadow: 8px 8px 12px #aaa;
 }
 
 ul{

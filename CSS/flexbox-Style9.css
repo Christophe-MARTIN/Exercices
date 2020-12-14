@@ -1,0 +1,44 @@
+#invisible{
+    width: 600px;
+    height: 470px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.gris{
+    width: 170px;
+    height: 470px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blanc{
+    width: 150px;
+    height: 450px;
+    background-color: white;
+}
+#photo1, #photo2, #photo3{
+    width: 150px;
+    height: 150px;
+    border: black;
+}
+/*
+#photo2{
+    width: 150px;
+    height: 150px;
+    border: black;
+}
+
+#photo3{
+    width: 150px;
+    height: 150px;
+    border: black;
+}
+
+h1, p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+*/
